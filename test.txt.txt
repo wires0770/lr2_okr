@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ksxmcnbvbdnss
+=======
+jdjdjjdjjjjd
+>>>>>>> 82a9c74 (9)
